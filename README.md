@@ -8,7 +8,7 @@ In instances where members of the same cooperative reported receiving differing 
 # Poverty line and minimum wages
 
 ## International poverty line
-The international poverty line is defined by the World Bank as $2.15 per person per day, or $784.75 per year. See: Global Poverty Lines (2022) World Bank. Available at: https://www.worldbank.org/en/news/factsheet/2022/05/02/fact-sheet-an-adjustment-to-global-poverty-lines. 
+The international poverty line is defined by the World Bank as $2.15 per person per day, or $784.75 per year. This converts to 958,883.19 rupiah at average USD-IDR exchange rates for 2022. See: Global Poverty Lines (2022) World Bank. Available at: https://www.worldbank.org/en/news/factsheet/2022/05/02/fact-sheet-an-adjustment-to-global-poverty-lines. 
 
 ## National poverty line
 The national poverty line set by the government in March 2022 is 505,469 rupiah (equivalent to $34) per person per month. See  Statistics Indonesia (2022) Persentase Penduduk Miskin Maret 2022 turun menjadi 9,54 persen, Badan Pusat Statistik. Available at: https://www.bps.go.id/pressrelease/2022/07/15/1930/persentase-penduduk-miskin-maret-2022-turun-menjadi-9-54-persen.html
