@@ -18,8 +18,8 @@ The average of the provincial minimum wage (UMP) in the provinces in which the c
 
 # Findings
 
-- In the ten named cases, a villager with a two-hectare area of plasma would receive, on average, $338 dollars per year – less than one dollar a day. 
-- With two hectares of plasma, a cooperative member in the partnerships we investigated would receive, on average, 413,076 rupiah (equivalent to $28) per month. 
+- In the ten named cases, a villager with a two-hectare area of plasma would receive, on average, 4,956,916 rupiah ($338) per year – less than one dollar a day. Per month, they would receive 413,076 rupiah (equivalent to $28). 
+- On average, villagers who signed up to these partnerships would receive income placing them below the international and national poverty lines, if they had no other source of income. 
 
 # Notes
 We also collected data on profits received by cooperative members in years before 2022 from three-quarters of our sources; in these cases, the profit figures we obtained were the same as (or lower than) those we collected in 2022.
