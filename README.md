@@ -1,3 +1,5 @@
+# ReadMe
+
 This sets out methods and data sources for [data on profits](https://github.com/The-Gecko-Project/gecko-project-charts/blob/main/promised-prosperity-partnership-scheme-profit-data.csv) received by members of "partnership" plasma schemes investigated by The Gecko Project in 2022.  For more details, see https://thegeckoproject.org/articles/promised-prosperity-drowning-in-debt/
 
 # Methods
@@ -20,6 +22,9 @@ The average of the provincial minimum wage (UMP) in the provinces in which the c
 
 - In the ten named cases, a villager with a two-hectare area of plasma would receive, on average, 4,956,916 rupiah ($338) per year – less than one dollar a day. Per month, they would receive 413,076 rupiah (equivalent to $28). 
 - On average, villagers who signed up to these partnerships would receive income placing them below the international and national poverty lines, if they had no other source of income. 
+
+# Use our data
+Our data is shared under a [Creative Commons Attribution- NonCommercial-NoDerivs (CC BY-NC-ND) license](https://www.creativecommons.org/licenses/by-nc-nd/2.0/). This means you must give appropriate credit, provide a link to the license, and indicate if changes were made. Please credit it to 'The Gecko Project, Mongabay and BBC News, CC BY-NC-ND'. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 # Notes
 We also collected data on profits received by cooperative members in years before 2022 from three-quarters of our sources; in these cases, the profit figures we obtained were the same as (or lower than) those we collected in 2022.
