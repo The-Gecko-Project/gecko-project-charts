@@ -1,6 +1,6 @@
-# ReadMe
+# About this dataset
 
-This sets out methods and data sources for [data on profits](https://github.com/The-Gecko-Project/gecko-project-charts/blob/main/promised-prosperity-partnership-scheme-profit-data.csv) received by members of "partnership" plasma schemes investigated by The Gecko Project in 2022.  For more details, see https://thegeckoproject.org/articles/promised-prosperity-drowning-in-debt/
+This ReadMe sets out methods and data sources for [data on profits](https://github.com/The-Gecko-Project/gecko-project-charts/blob/main/promised-prosperity-partnership-scheme-profit-data.csv) received by members of "partnership" plasma schemes investigated by The Gecko Project in 2022.  For more details, see https://thegeckoproject.org/articles/promised-prosperity-drowning-in-debt/
 
 # Methods
 Data was obtained through interviews and analysis of documentary evidence collected by reporters commissioned by The Gecko Project, Mongabay and BBC News in October 2022. In many cases data on profits received by plasma cooperative members was difficult to obtain, because communities did not have access to it and companies did not respond to requests to share it. We were able to obtain sufficient data from members of ten cooperatives that had entered partnerships with plantation companies to draw conclusions about the profits they were receiving in 2022. 
